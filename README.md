@@ -18,7 +18,7 @@ Loja e shpejtësisë e bazuar në Java-Swing
 2. Kompiloni projektin:
 
 ## Pamjet e lojës
-<img width="799" height="598" alt="Loja pic1" src="https://github.com/user-attachments/assets/e40964c4-8126-43cb-ad62-b7d3edf36ae4" />
+<img width="500" height="598" alt="Loja pic1" src="https://github.com/user-attachments/assets/e40964c4-8126-43cb-ad62-b7d3edf36ae4" />
 
 <img width="801" height="591" alt="Pic2" src="https://github.com/user-attachments/assets/ec903c1b-776a-4f30-b890-208fe8f8c024" />
 
